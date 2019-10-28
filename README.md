@@ -4,13 +4,13 @@ A turnkey, high-performance Minecraft server inside a Docker container
 
 ## Getting Started
 
-These instructions will help you get your own Minecraft server up and running in no time. See deployment for notes on how to deploy the project on a live system.
+These instructions will help you get your own Minecraft server up and running in no time.
 
 ### Prerequisites
 
 Your only requirement is a system running Docker with a fair amount of RAM depending on how many instances you want to run. A good rule of thumb is about 4GB of RAM per instance and possibly more if you want to run any heavy plugins.
 
-You can visit the official Docker website (here)[https://docs.docker.com/install/] for installation instructions.
+You can visit the official Docker website [here](https://docs.docker.com/install/) for installation instructions.
 
 ### Installation
 
